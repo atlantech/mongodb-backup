@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-backup-script",
+  "version": "0.0.1",
+  "description": "",
+  "main": "backup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Leanovich",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "moment": "^2.20.1"
+  }
+}

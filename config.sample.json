@@ -1,0 +1,8 @@
+{
+    "host": "my.mongohost.com",
+    "port": "100500",
+    "db": "moonactive-admin",
+    "username": "ThomasAnderson",
+    "password": "ILoveRedPills",
+    "backupsCount": 3
+}
